@@ -1,0 +1,161 @@
+
+header {
+    background: #3e3e3e;
+    overflow: auto;
+    padding: 10px;
+    padding-left: 20px;
+    border-bottom: 2px solid black;
+    margin-top: 30px;    
+}
+
+ul{
+    float: right;
+    margin-top: 40px;
+}
+
+li {
+    display: inline-block;
+    font-family: sans-serif;
+    padding: 6px;
+    
+}
+
+header ul li a{
+    color: #ffffff;
+    list-style: none;
+    text-decoration: none;
+}
+
+header ul li a:hover {
+    background: #7e7c7c;
+    padding: 15px;
+}
+.logo {
+    display: inline-block;
+    width: 100px;
+    height: auto;
+    }
+
+h2 {
+    display: inline-block;
+    margin: 15px 25px;
+}
+
+.enlace {
+    font-size: 15px;
+    color: #4646d8;
+    text-decoration: none
+}
+
+.hero {
+    padding: 20px;
+    background: #e5e5e5;
+    border-bottom: 3px solid #afafaf;
+}
+
+.image-responsive {
+    width: 100%;
+    border: 3px solid #ffffff;
+}
+
+ a p {
+    text-align: center;
+    color: #4f4fbe;
+    font-family: sans-serif;
+    font-size: 15px;
+    }
+
+.hero a{
+    text-decoration: none;
+}
+
+.box {
+    display: inline-block;
+    width: 110px;
+    margin: 0px;
+    padding: 0px;
+  
+}
+ul li a p{
+    font-size: 12px;
+    vertical-align: top;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+ul li {
+    padding:10px 10px 4px 0px; 
+    vertical-align: top;
+    }
+ul li:hover{
+    opacity: 0.6;
+}
+
+.nav-link h3 {
+    border-bottom: 3px solid #ccc;
+    margin:20px 0;
+    padding-bottom: 5px;
+}
+.lista-img .nav-link ul {
+    list-style: none;
+    margin:0;
+    padding: 0;
+}
+.nav-link ul img {
+    margin-right:15px;
+    width:15px;
+}
+
+.lista-img .nav-link li {
+    display: block;
+}
+.nav-link p {
+    border-top:3px solid #ccc;
+    margin-top: 20px;
+    padding-top: 20px;
+    line-height: 1.5em;
+}
+
+.nav-link {
+    padding-left: 0px;
+    padding-top: 18px;
+}
+.piedepag {
+    background: #393939;
+    clear: both;
+    padding: 5px;
+}
+.foot {
+    color: #fff;
+    display: block;
+    text-align: left;
+    font-weight: lighter;
+    padding: 20px;
+    font-size: 14px;
+    line-height: 1.8em;
+}
+.piedepag ul {
+    text-align: center;
+}
+.piedepag ul li {
+    display: inline-block;
+    padding-left: 10px;
+}
+.piedepag ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+.piedepag small {
+    color: #fff;
+    display: block;
+    text-align: center;
+    font-weight: lighter;
+    padding: 20px;
+    font-size: 12px;
+    color: #bebebe;
+}
+.read {
+    color: white;
+}
